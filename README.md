@@ -21,7 +21,7 @@ You are free to Contribute, Fork or use any of the sourcecode, or just use it as
 I would appreciate any feedback/feature/bug request issues!
 
 The packages at the moment be found as Prerelease in the nuget store. 
-https://www.nuget.org/packages/SacaDev.Api/
-https://www.nuget.org/packages/SacaDev.Configuration/
-https://www.nuget.org/packages/SacaDev.Diagnostics/
-https://www.nuget.org/packages/SacaDev.Util/
+*  https://www.nuget.org/packages/SacaDev.Api/
+*  https://www.nuget.org/packages/SacaDev.Configuration/
+*  https://www.nuget.org/packages/SacaDev.Diagnostics/
+*  https://www.nuget.org/packages/SacaDev.Util/
