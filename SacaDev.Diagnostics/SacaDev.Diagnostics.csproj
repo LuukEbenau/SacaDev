@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Sacation</Authors>
+    <Description>Provides an easy api for diagnostics, such as logging</Description>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SacaDev.Util\SacaDev.Util.csproj" />
+  </ItemGroup>
+
+</Project>

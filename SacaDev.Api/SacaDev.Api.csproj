@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Copyright>SacaDev Inc.</Copyright>
+    <Company>SacaDev</Company>
+    <Authors>Sacation</Authors>
+    <Description>Api framework</Description>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ServiceStack" Version="5.4.0" />
+  </ItemGroup>
+
+</Project>
